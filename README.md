@@ -1,7 +1,7 @@
 # color-tone-analysis
 Color Tone Analysis is a deep learning project designed to classify human skin tones into three categories: Warm, Cool, and Neutral. By leveraging a sequential CNN model, this tool provides a robust and accurate way to analyze face tones from user-uploaded images.
 
-##Dataset
+## Dataset
 - Combined multiple publicly available datasets focusing on diverse skin tones.
 - Preprocessed and labeled the data into three categories: Warm, Cool, and Neutral.
 - Data augmentation techniques were applied to ensure the model's robustness.
